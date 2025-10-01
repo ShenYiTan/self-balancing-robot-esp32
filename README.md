@@ -43,6 +43,6 @@ The robot uses an ESP32 microcontroller, an MPU6050 IMU, and a custom motor cont
 
 📖 Documentation
 The full report is available here 
- - [self-balance-robot]([https://github.com/jrowberg/i2cdevlib](https://github.com/ShenYiTan/self-balancing-robot-esp32/blob/main/docs/self-balance.pdf))
+ - [self-balance-robot](https://github.com/ShenYiTan/self-balancing-robot-esp32/blob/main/docs/self-balance.pdf)
 
 ---
