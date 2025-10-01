@@ -9,10 +9,8 @@ The robot uses an ESP32 microcontroller, an MPU6050 IMU, and a custom motor cont
 
 ## ✨ Features
 - Real-time balancing using PID control
-- ESP32 with built-in WiFi/Bluetooth for future expansion
 - MPU6050 DMP (Digital Motion Processor) for accurate tilt estimation
-- Custom LMotorController library for PWM-based motor control
-- Documented step-by-step build process (mechanical, electronic, and software)
+
 
 ---
 
@@ -24,12 +22,12 @@ The robot uses an ESP32 microcontroller, an MPU6050 IMU, and a custom motor cont
 ---
 
 ## 🛠️ Hardware Used
-- **ESP32 Development Board**
+- **ESP32 Doit Dev V1**
 - **MPU6050 6-axis IMU**
-- **L298N Motor Driver** (or equivalent H-bridge)
+- **L2983D Motor Driver** 
 - **DC Gear Motors + Wheels**
-- **12V Li-ion Battery Pack**
-- **3D-printed / custom frame**
+- **Li-ion Battery Pack**
+- **cardboard frame**
 
 ---
 
