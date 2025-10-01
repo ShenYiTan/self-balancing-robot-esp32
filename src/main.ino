@@ -25,7 +25,7 @@ uint8_t fifoBuffer[64]; // FIFO storage buffer
 // orientation/motion vars
 Quaternion q; // [w, x, y, z] quaternion container
 VectorFloat gravity; // [x, y, z] gravity vector
-float ypr[3]; // [yaw, pitch, roll] yaw/pitch/roll container and gravity vector
+float ypr[3]; // [yaw, pitch, roll] yaw/pitch/roll container 
 
 //PID
 double originalSetpoint = 185;
