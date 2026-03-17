@@ -14,6 +14,11 @@ The robot uses an ESP32 microcontroller, an MPU6050 IMU, and a custom motor cont
 
 ---
 
+## 📷 Video
+- https://youtu.be/RRDyvILcvI8
+
+---
+
 ## 📂 Repository Structure
 - `src/` → Arduino/ESP32 source code (`main.ino`, motor controller library)
 - `docs/` → Full report PDF, images, and SolidWorks models
